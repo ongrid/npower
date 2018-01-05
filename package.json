@@ -1,0 +1,22 @@
+{
+  "name": "npower",
+  "version": "1.0.0",
+  "description": "NodePower Crowdsale",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ongrid/npower.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ongrid/npower/issues"
+  },
+  "homepage": "https://github.com/ongrid/npower#readme"
+}
