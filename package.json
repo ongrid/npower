@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ongrid/npower/issues"
   },
-  "homepage": "https://github.com/ongrid/npower#readme"
+  "homepage": "https://github.com/ongrid/npower#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.5.0"
+  }
 }
